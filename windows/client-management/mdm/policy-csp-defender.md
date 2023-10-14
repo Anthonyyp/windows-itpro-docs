@@ -2224,7 +2224,7 @@ Any other value, or if the value doesn't exist, resolves to the default (0).
 
 - If you enable this setting, the specified type of monitoring will be enabled.
 
-- If you disable or don't configure this setting, monitoring for incoming and outgoing files will be enabled.
+- If you disable or don't configure this setting, monitoring for incoming and outgoing files will be disabled.
 <!-- RealTimeScanDirection-Description-End -->
 
 <!-- RealTimeScanDirection-Editable-Begin -->
